@@ -1,6 +1,17 @@
-# tip_calculator
+# CAL- TIP, A TIP CALCULATOR APPLICATION
+A simple yet elegant tip calculator created using flutter framework and dart language. As the name suggests,
+the main purpose of this app is to calculate the over all bill and individual bill spillted according to the 
+total number of people.
+The user interface of the app is kept very elegant and professional, with a overall white and pink theme.
 
-A new Flutter project.
+The variables used here are:- 
+1) Tip percentage
+2) Over all person count 
+3) Current bill
+4) Overall bill
+5) After accounting the tip 
+6) Individual bill each person has to give
+
 
 ## Getting Started
 
